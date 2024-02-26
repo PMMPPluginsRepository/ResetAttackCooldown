@@ -1,0 +1,7 @@
+name: ResetAttackCooldown
+main: skh6075\ResetAttackCooldown\Main
+author: skh6075
+version: 1.0.0
+api: 5.0.0
+
+src-namespace-prefix: skh6075\ResetAttackCooldown
